@@ -1,7 +1,10 @@
-def sum(a, b):
-    return a+b
+def sum(a, b, c):
+    return a+b+c
 
 
 a = 10
 b = 20
-print(sum(a, b))
+c = 30
+print(sum(a, b, c))
+# print(__name__)
+# this is not staged
