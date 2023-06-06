@@ -10,5 +10,3 @@ print(sum(a, b, c))
 # this is not staged
 # using the p tag
 # this is cool
-# dont want this
-# this is not staged
