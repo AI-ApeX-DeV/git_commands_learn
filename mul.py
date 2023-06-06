@@ -10,6 +10,7 @@ print(mul(a, b))
 
 def mul1(a, b, c):
     return a*b*c
+# cool
 
 
 c = 30
