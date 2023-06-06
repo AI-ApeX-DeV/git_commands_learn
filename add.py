@@ -5,7 +5,7 @@ def sum(a, b, c):
 a = 10
 b = 20
 c = 30
-print(sum(a, b, c))
+print(sum(a, b))
 # print(__name__)
 # this is not staged
 # using the p tag
