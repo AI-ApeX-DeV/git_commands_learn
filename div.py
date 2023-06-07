@@ -7,4 +7,4 @@ b = 20
 print(div(a, b))
 
 # this is cool and now we have both remote and div changes
-# i am working locally
+# i am working remotely
